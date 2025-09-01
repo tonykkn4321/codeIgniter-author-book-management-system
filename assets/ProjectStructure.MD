@@ -25,5 +25,7 @@ php spark migrate
 # Start the Local Server:
 php spark serve
 
+# Railway customr start command:
+php spark migrate && php -S 0.0.0.0:$PORT -t public
 
 
