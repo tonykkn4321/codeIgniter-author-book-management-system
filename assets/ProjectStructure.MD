@@ -25,9 +25,5 @@ php spark migrate
 # Start the Local Server:
 php spark serve
 
-# Railway files:
-Dockerfile
-start.sh
-
 
 
